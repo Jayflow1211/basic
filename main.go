@@ -5,6 +5,6 @@ import (
 )
 
 func main() {
-	res := 1 / 0
+	res := 1 / 1
 	fmt.Println("res: ", res)
 }
